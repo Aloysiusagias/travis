@@ -6,9 +6,9 @@ global:
 - ANDROID_BUILD_TOOLS_VERSION=25.0.2
 android:
 licenses:
-- &#39;android-sdk-preview-license-.+&#39;
-- &#39;android-sdk-license-.+&#39;
-- &#39;google-gdk-license-.+&#39;
+- 'android-sdk-preview-license-.+'
+- 'android-sdk-license-.+'
+- 'android-gdk-license-.+'
 components:
 - tools
 - platform-tools
